@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="6df526ce-75c7-4d71-a020-ac34af92e3d1" 
+        solutionId="6df526ce-75c7-4d71-a020-ac34af92e3d1" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="TodoMVC.Angular_SharePoint"
+        sharePointProductVersion="15.0">
+  <features>
+        <featureReference itemId="de451666-3fe5-407b-b17b-cd1fc320a936" />
+  </features>
+</package>
