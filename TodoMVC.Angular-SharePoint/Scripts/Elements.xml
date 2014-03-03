@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Elements xmlns="http://schemas.microsoft.com/sharepoint/">
+  <Module Name="Scripts">
+    <File Path="Scripts\components\angular\angular.js" Url="Scripts/components/angular/angular.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\components\angular-sharepoint\angular-sharepoint.js" Url="Scripts/components/angular-sharepoint/angular-sharepoint.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\components\ShareCoffee\dist\ShareCoffee.js" Url="Scripts/components/ShareCoffee/dist/ShareCoffee.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\components\todomvc-common\base.css" Url="Scripts/components/todomvc-common/base.css" ReplaceContent="TRUE" />
+    <File Path="Scripts\components\todomvc-common\base.js" Url="Scripts/components/todomvc-common/base.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\components\todomvc-common\bg.png" Url="Scripts/components/todomvc-common/bg.png" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\controllers\TodoCtrl.js" Url="Scripts/app/controllers/TodoCtrl.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\app.js" Url="Scripts/app/app.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\directives\todoEscape.js" Url="Scripts/app/directives/todoEscape.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\directives\todoFocus.js" Url="Scripts/app/directives/todoFocus.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\services\todoStorage.js" Url="Scripts/app/services/todoStorage.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\components\angular-route\angular-route.js" Url="Scripts/components/angular-route/angular-route.js" ReplaceContent="TRUE" />
+    <File Path="Scripts\app\lists\Todo.js" Url="Scripts/app/lists/Todo.js" ReplaceContent="TRUE" />
+  </Module>
+</Elements>
