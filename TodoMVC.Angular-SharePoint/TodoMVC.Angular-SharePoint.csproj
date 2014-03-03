@@ -46,7 +46,6 @@
     <Content Include="Scripts\app\directives\todoEscape.js" />
     <Content Include="Scripts\app\directives\todoFocus.js" />
     <Content Include="Scripts\app\lists\Todo.js" />
-    <Content Include="Scripts\app\services\todoStorage.js" />
     <Content Include="Scripts\components\angular-route\angular-route.js" />
     <Content Include="Todos\Elements.xml" />
     <Content Include="Todos\Schema.xml" />

@@ -1,9 +1,9 @@
 /**
  * The main controller for the app. The controller:
- * - retrieves and persists the model via the todoStorage service
+ * - retrieves and persists the model via the Todo list
  * - exposes the model to the template and provides event handlers
  */
-angular.module('todomvc').controller('TodoCtrl', function TodoCtrl($scope, $routeParams, todoStorage, filterFilter, Todo) {
+angular.module('todomvc').controller('TodoCtrl', function TodoCtrl($scope, $routeParams, filterFilter, Todo) {
   'use strict';
   var todos = $scope.todos = Todo.query();
 

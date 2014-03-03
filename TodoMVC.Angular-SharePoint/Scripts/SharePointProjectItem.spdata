@@ -12,7 +12,6 @@
     <ProjectItemFile Source="app\app.js" Target="Scripts\app\" Type="ElementFile" />
     <ProjectItemFile Source="app\directives\todoEscape.js" Target="Scripts\app\directives\" Type="ElementFile" />
     <ProjectItemFile Source="app\directives\todoFocus.js" Target="Scripts\app\directives\" Type="ElementFile" />
-    <ProjectItemFile Source="app\services\todoStorage.js" Target="Scripts\app\services\" Type="ElementFile" />
     <ProjectItemFile Source="components\angular-route\angular-route.js" Target="Scripts\components\angular-route\" Type="ElementFile" />
     <ProjectItemFile Source="app\lists\Todo.js" Target="Scripts\app\lists\" Type="ElementFile" />
   </Files>

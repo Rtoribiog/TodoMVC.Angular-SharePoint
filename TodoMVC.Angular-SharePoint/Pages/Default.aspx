@@ -80,7 +80,6 @@
 
         <script type="text/javascript" src="../Scripts/app/app.js"></script>
         <script type="text/javascript" src="../Scripts/app/controllers/TodoCtrl.js"></script>
-        <script type="text/javascript" src="../Scripts/app/services/todoStorage.js"></script>
         <script type="text/javascript" src="../Scripts/app/lists/Todo.js"></script>
         <script type="text/javascript" src="../Scripts/app/directives/todoEscape.js"></script>
         <script type="text/javascript" src="../Scripts/app/directives/todoFocus.js"></script>

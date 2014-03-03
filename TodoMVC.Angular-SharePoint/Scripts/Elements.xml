@@ -11,7 +11,6 @@
     <File Path="Scripts\app\app.js" Url="Scripts/app/app.js" ReplaceContent="TRUE" />
     <File Path="Scripts\app\directives\todoEscape.js" Url="Scripts/app/directives/todoEscape.js" ReplaceContent="TRUE" />
     <File Path="Scripts\app\directives\todoFocus.js" Url="Scripts/app/directives/todoFocus.js" ReplaceContent="TRUE" />
-    <File Path="Scripts\app\services\todoStorage.js" Url="Scripts/app/services/todoStorage.js" ReplaceContent="TRUE" />
     <File Path="Scripts\components\angular-route\angular-route.js" Url="Scripts/components/angular-route/angular-route.js" ReplaceContent="TRUE" />
     <File Path="Scripts\app\lists\Todo.js" Url="Scripts/app/lists/Todo.js" ReplaceContent="TRUE" />
   </Module>
