@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "dependencies": {
     "angular": "1.2.13",
-    "angular-sharepoint": "~0.1.0",
+    "angular-sharepoint": "~0.2.0",
     "ShareCoffee": "~0.0.11",
     "todomvc-common": "~0.1.4",
     "angular-route": "1.2.13"
